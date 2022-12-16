@@ -1,0 +1,32 @@
+{
+"users" : [
+{
+"id" : "23",
+"firstName": "Bill Gates",
+"age": "55",
+"companyId":"1",
+},
+{
+"id" : "40",
+"firstName": "Steve Smith",
+"age": "60",
+"companyId":"2",
+},
+"id" : "50",
+"firstName": "John",
+"age": "55",
+"companyId":"2",
+},
+],
+"company" : [
+{
+"id" : "1",
+"name":"google",
+},
+{
+"id" : "2",
+"name":"apple",
+},
+]
+
+}

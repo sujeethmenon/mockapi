@@ -22,11 +22,11 @@
    "company":[
       {
          "id":"1",
-         "description":"google"
+         "name":"google"
       },
       {
          "id":"2",
-         "description":"apple"
+         "name":"apple"
       }
    ]
 }
